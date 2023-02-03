@@ -1,6 +1,6 @@
 ```python
-from rcache import Rcache
-from rcache import Cache as cached
+from rcache2 import Rcache
+from rcache2 import Cache as cached
 
 ...
 
