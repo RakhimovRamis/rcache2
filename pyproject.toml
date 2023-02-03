@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "rcache2"
+version = "0.0.1"
+description = "Python redis cache"
+authors = ["Ramis Rakhimov <ramisprogramis@gmail.com>"]
+readme = "README.md"
+license = "MIT"
+homepage = "https://github.com/RakhimovRamis/rcache2"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
